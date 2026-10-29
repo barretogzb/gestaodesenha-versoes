@@ -1,7 +1,7 @@
 {
-  "versao": "5.5.0",
-  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.5.0/Instalar-GestaoDeSenha-5.5.0.exe",
-  "sha256": "685993096deb0deac6cfc53bb78aa2488c103cf3339643ca23378bda2e65d2b9",
-  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.5.0",
-  "notas": "Configurações abrem prontas, aviso sem fundo escuro, Novidades e sons desligados."
+  "versao": "5.5.1",
+  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.5.1/Instalar-GestaoDeSenha-5.5.1.exe",
+  "sha256": "c02df2c80dc5de0e720871a37b54ccb9180205040a4213ebe1f77dbf8b08b605",
+  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.5.1",
+  "notas": "Tela de carregamento na cor que você escolheu; botões da senha do dia reorganizados; saíram as teclas F2 a F10 e o botão Atualizar atalhos; botão Atualizar mostra o texto inteiro."
 }
