@@ -1,0 +1,7 @@
+{
+  "versao": "5.4.0",
+  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.4.0/Instalar-GestaoDeSenha-5.4.0.exe",
+  "sha256": "8d6386d9bd44663abdb59d0f12b2e4ad6b127ea3c96af0814db619234124aa3c",
+  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.4.0",
+  "notas": "Atualização automática, PIN do Zetti Play mais rápido e senha do dia só de hoje."
+}
