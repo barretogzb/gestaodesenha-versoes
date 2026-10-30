@@ -1,7 +1,7 @@
 {
-  "versao": "5.6.3",
-  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.6.3/Instalar-GestaoDeSenha-5.6.3.exe",
-  "sha256": "45789cff19d7b924e34126182f610c61ff70ddb4282f3873661aa99a329f182a",
-  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.6.3",
-  "notas": "Correção: ao sair do modo mini, a janela do app sempre volta para a frente."
+  "versao": "5.7.0",
+  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.7.0/Instalar-GestaoDeSenha-5.7.0.exe",
+  "sha256": "f090a910140a173c293ac72cf4ba1d79aa412022e4df23e0dd8b3ec454592694",
+  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.7.0",
+  "notas": "Novo bloco Atalhos com Orçamento, PDV e Vetor Soluções; tela em três blocos (Senha do dia, Tokens e Atalhos); para copiar a senha é só clicar nela; tudo do app agora fica em %APPDATA%\\GestaoDeSenha (a mudança é automática)."
 }
