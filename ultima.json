@@ -1,7 +1,7 @@
 {
-  "versao": "5.7.1",
-  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.7.1/Instalar-GestaoDeSenha-5.7.1.exe",
-  "sha256": "d19faeeae2008719594450cd8bb25e5e0d649056add194c365b32dd132b9f0d4",
-  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.7.1",
-  "notas": "Para ver as novidades, clique na versão embaixo da tela inicial; quando sair atualização, aparece “● Novidades” em vermelho. Configurações mais alinhadas."
+  "versao": "5.7.2",
+  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.7.2/Instalar-GestaoDeSenha-5.7.2.exe",
+  "sha256": "c0d5469ffc3f3f8540f6064754f338f9de0017b4b75d9da6dfa8a2babe062930",
+  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.7.2",
+  "notas": "No modo mini o app continua aparecendo na barra de tarefas, e abrir o app de novo traz o que já está aberto em vez de abrir outro."
 }
