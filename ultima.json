@@ -1,7 +1,7 @@
 {
   "versao": "5.6.0",
   "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.6.0/Instalar-GestaoDeSenha-5.6.0.exe",
-  "sha256": "864e050285bc42f0366028c5eae02b6fc291502220700dba54ed7474a98fd4da",
+  "sha256": "795a83f7ed5cd880aeec5de10976876f3c3787235989696fd44dbf783b4a7b37",
   "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.6.0",
-  "notas": "Modo mini: o botão ao lado da engrenagem transforma o app numa barrinha flutuante, por cima de todos os programas, com a senha do dia e os tokens em ícones. Dá para arrastar e não tira o foco do Vetor."
+  "notas": "Modo mini: o botão ao lado da engrenagem deixa só o ícone do app flutuando por cima de todos os programas. Clicando nele, abre um resumo com a senha do dia e os tokens ligados. Dá para arrastar e não tira o foco do Vetor."
 }
