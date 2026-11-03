@@ -1,7 +1,7 @@
 {
-  "versao": "5.8.1",
-  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.8.1/Instalar-GestaoDeSenha-5.8.1.exe",
-  "sha256": "c4fdaaa919bcd6ac0b5aba5027be7bde1ab870f69e815436bf5e04ce99091035",
-  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.8.1",
-  "notas": "Melhorias e correções."
+  "versao": "5.8.2",
+  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.8.2/Instalar-GestaoDeSenha-5.8.2.exe",
+  "sha256": "8d8f4b0e3a4d1398222069328fe63b607cb130e865bbb0a4a16d7ee66642705a",
+  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.8.2",
+  "notas": "Novo botão Token VPN: busca o código da Fortinet no e-mail e já copia."
 }
