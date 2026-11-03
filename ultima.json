@@ -1,7 +1,7 @@
 {
-  "versao": "5.8.0",
-  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.8.0/Instalar-GestaoDeSenha-5.8.0.exe",
-  "sha256": "ea33fd28587ef412f91f802f32c849d1c40b45a79fa653f1a6ab85de9fb8e93a",
-  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.8.0",
-  "notas": "Novo: painel compacto para a Barra Rápida. Na Barra Rápida, o botão do Gestão de Senha abre só a senha do dia e os tokens, em vez do app inteiro."
+  "versao": "5.8.1",
+  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.8.1/Instalar-GestaoDeSenha-5.8.1.exe",
+  "sha256": "c4fdaaa919bcd6ac0b5aba5027be7bde1ab870f69e815436bf5e04ce99091035",
+  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.8.1",
+  "notas": "Melhorias e correções."
 }
