@@ -1,7 +1,7 @@
 {
-  "versao": "5.7.3",
-  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.7.3/Instalar-GestaoDeSenha-5.7.3.exe",
-  "sha256": "94ebb60dfcc84d5ce22173cbf3fa7848745f4c8c427c312a97178d09d3dcae65",
-  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.7.3",
-  "notas": "Atalhos com as cores de cada programa do Vetor e o app abre parado no centro da tela."
+  "versao": "5.7.4",
+  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.7.4/Instalar-GestaoDeSenha-5.7.4.exe",
+  "sha256": "86404263df47b9a85d19efa0fe66644b6198110a6d8d143c0bf0ca5cdfcc9100",
+  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.7.4",
+  "notas": "Correção: no modo mini, clicar no app na barra de tarefas não abre mais a janela; o ícone flutuante pisca para mostrar onde está."
 }
