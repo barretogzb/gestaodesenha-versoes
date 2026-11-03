@@ -1,7 +1,7 @@
 {
-  "versao": "5.7.5",
-  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.7.5/Instalar-GestaoDeSenha-5.7.5.exe",
-  "sha256": "11bee4bf1c5cf4b8a6a394aa40b1c2660440d9bf9393c931a382fb2b03c7e4c1",
-  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.7.5",
+  "versao": "5.7.6",
+  "instalador": "https://github.com/barretogzb/gestaodesenha-versoes/releases/download/v5.7.6/Instalar-GestaoDeSenha-5.7.6.exe",
+  "sha256": "995705540a717b453cf64603ac871e121ab6475cec8d8a32ec3614f2fda93192",
+  "pagina": "https://github.com/barretogzb/gestaodesenha-versoes/releases/tag/v5.7.6",
   "notas": "Ajustes no modo mini."
 }
